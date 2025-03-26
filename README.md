@@ -1,2 +1,2 @@
 # c
-Aprendendo C pelo curso do Bro Code
+Learning C with Bro Code's C course
